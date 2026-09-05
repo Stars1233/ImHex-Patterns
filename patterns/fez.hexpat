@@ -3,6 +3,9 @@ import std.io;
 import type.time;
 import std.sys;
 
+#pragma author WerWolv
+#pragma description FEZ Game Save File Format
+
 using int = s32;
 using long = s64;
 
